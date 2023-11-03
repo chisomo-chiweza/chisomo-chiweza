@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @chisomo-chiweza - a Malawian polyglot programmer (🇲🇼).
+- ❤️ To have an idea of what programming languages I'm playing with - you can check out my [exercism profile](https://exercism.org/profiles/mwprogrammer). 
+- 👀 Whilst I love seeing what I can build with different programming languages, I'm also primarily interested in software engineering.
+- 🌱 This is my professional account. I'm currently a systems development intern @NBS-BANK.
+- 📫 Connect with me on [Linkedin](https://www.linkedin.com/in/chisomochiweza) or follow my personal Github account [@mwprogrammer](https://github.com/mwprogrammer). 
