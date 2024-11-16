@@ -1,6 +1,3 @@
-[![roadmap.sh](https://roadmap.sh/card/wide/672e06cc31d65c235d72232a?variant=dark)](https://roadmap.sh)
-
-
 - 👋&#127997; Hi, I’m @chisomo-chiweza - a Malawian polyglot programmer (🇲🇼).
 - 💖 This is my professional Github account. I'm currently a Software Developer @NBS-BANK.
 - 🛠️  Whilst I like to explore what I can build with different programming languages - I've also been interested lately in how I can engineer better software.
